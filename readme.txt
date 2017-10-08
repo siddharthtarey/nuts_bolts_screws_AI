@@ -1,8 +1,5 @@
 Foundation of Intelligent Systems: Project-2
  
- author: siddharth tarey (st2476@rit.edu)
- author: swapnil kamat (snk6855@rit.edu)
- author: pavan prabhakar bhat (sxb8715@rit.edu)
  
 How to run the program:
 1.) Unzip the file
